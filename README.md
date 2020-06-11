@@ -1,4 +1,6 @@
-This is a simple chatbot for a hotel which is done using RASA framework
+# HOTEL BOOKING CHATBOT USING RASA
+
+This is a simple chatbot for a hotel.
 
 For execution:
 1) Open 2 terminal
