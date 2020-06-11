@@ -1,7 +1,4 @@
-# rasa-hotel-chatbot-kaushi99
-rasa-hotel-chatbot-kaushi99 created by GitHub Classroom
-
-This is a simple chatbot for a hotel. All the questions given in the assignment were successfully tested and executed. I will work on the Bonus Section now.
+This is a simple chatbot for a hotel which is done using RASA framework
 
 For execution:
 1) Open 2 terminal
